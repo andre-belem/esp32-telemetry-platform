@@ -21,6 +21,8 @@ The system is designed with scalability and modularity in mind, combining embedd
 - Scalable IoT architecture
 
 ## System Architecture
+
+````
 +------------------+
 |      ESP32       |
 | Sensors & Data   |
